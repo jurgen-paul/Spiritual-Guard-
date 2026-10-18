@@ -1,0 +1,6 @@
+{
+  "name": "Spiritual Guard AI Core",
+  "description": "An intelligent spiritual wellness and discernment platform with AI guard guidance, spiritual task management via Google Tasks, and daily protection routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
